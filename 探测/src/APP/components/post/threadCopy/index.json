@@ -1,0 +1,1 @@
+}{"component":true,"usingComponents":{"com-multi-select":"/components/common/comMultiSelect/index","van-popup":"../../../miniprogram_npm/@vant/weapp/popup/index","van-button":"../../../miniprogram_npm/@vant/weapp/button/index","pay-select":"/components/common/paySelect/index","thread-copy-result":"/components/post/threadCopyResult/index"}

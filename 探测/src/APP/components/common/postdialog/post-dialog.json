@@ -1,0 +1,1 @@
+}{"component":true,"usingComponents":{"paotui-entry":"/components/entry/paotui/index","school-select":"/components/common/schoolselectNew/schoolselect","user-profile-popup":"/components/common/UserProfilePopup/index","van-popup":"../../../miniprogram_npm/@vant/weapp/popup/index","van-icon":"../../../miniprogram_npm/@vant/weapp/icon/index","new-dot":"/components/ui/newDot/index"}

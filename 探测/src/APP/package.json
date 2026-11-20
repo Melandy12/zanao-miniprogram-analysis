@@ -1,0 +1,1 @@
+}{"name":"mp-community","version":"1.0.0","private":true,"scripts":{"audit:routes":"node script/audit-wx-routes.js","obfuscation":"node script/obfuscation.js","svg":"node script/svg-transform.js","delete":"node script/ignore-delete.js","tinify":"node script/tinify-compress.js"},"dependencies":{"@vant/weapp":"^1.11.5"},"devDependencies":{"chalk":"^4.1.2","minimist":"^1.2.8"}
